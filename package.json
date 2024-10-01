@@ -1,13 +1,13 @@
 {
     "name": "MakeCraftRP",
     "preductname": "MakeCraftRP Launcher",
-    "version": "3.0.5",
+    "version": "3.0.6",
     "description": "Launcher de MakeCraftRP",
     "main": "src/app.js",
     "author": "ZeroxarZ",
     "settings": "https://api.makecraftrp.com/paneladmin",
     "engines": {
-        "node": "16.x.x"
+        "node": "18.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
@@ -21,7 +21,7 @@
     "dependencies": {
         "bootstrap": "^5.3.3",
         "discord-rpc": "^4.0.1",
-        "electron-updater": "^6.3.4",
+        "electron-updater": "^6.1.4",
         "https": "^1.0.0",
         "MakeCraftRP": "file:",
         "minecraft-java-core": "^3.10.4",
