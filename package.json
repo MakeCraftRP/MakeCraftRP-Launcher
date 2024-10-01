@@ -7,7 +7,7 @@
     "author": "ZeroxarZ",
     "settings": "https://api.makecraftrp.com/paneladmin",
     "engines": {
-        "node": "16.x.x"
+        "node": "18.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
