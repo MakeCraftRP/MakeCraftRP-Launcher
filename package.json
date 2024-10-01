@@ -1,13 +1,13 @@
 {
     "name": "MakeCraftRP",
     "preductname": "MakeCraftRP Launcher",
-    "version": "3.0.3",
+    "version": "3.0.5",
     "description": "Launcher de MakeCraftRP",
     "main": "src/app.js",
     "author": "ZeroxarZ",
     "settings": "https://api.makecraftrp.com/paneladmin",
     "engines": {
-        "node": "18.x.x"
+        "node": "16.x.x"
     },
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
