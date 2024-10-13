@@ -1,8 +1,8 @@
 {
-    "name": "MakeCraftRP",
-    "preductname": "MakeCraftRP Launcher",
-    "version": "3.0.3",
-    "description": "Launcher de MakeCraftRP",
+    "name": "MakeCraftRP ANARCHY",
+    "preductname": "MakeCraftRP ANARCHY Launcher",
+    "version": "5.0.0",
+    "description": "Launcher de MakeCraftRP ANARCHY",
     "main": "src/app.js",
     "author": "ZeroxarZ",
     "settings": "https://api.makecraftrp.com/paneladmin",
@@ -23,6 +23,7 @@
         "discord-rpc": "^4.0.1",
         "electron-updater": "^6.1.4",
         "https": "^1.0.0",
+        "MakeCraftRP": "file:",
         "minecraft-java-core": "^3.10.4",
         "node-fetch": "^2.6.7",
         "xml-js": "^1.6.11"
