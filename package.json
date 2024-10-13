@@ -1,7 +1,7 @@
 {
-    "name": "MakeCraftRP ANARCHY",
+    "name": "MakeCraftRPANARCHY",
     "preductname": "MakeCraftRP ANARCHY Launcher",
-    "version": "7.0.0",
+    "version": "8.0.0",
     "description": "Launcher de MakeCraftRP ANARCHY",
     "main": "src/app.js",
     "author": "ZeroxarZ",
@@ -23,6 +23,7 @@
         "discord-rpc": "^4.0.1",
         "electron-updater": "^6.1.4",
         "https": "^1.0.0",
+        "MakeCraftRPANARCHY": "file:",
         "minecraft-java-core": "^3.10.4",
         "node-fetch": "^2.6.7",
         "xml-js": "^1.6.11"
