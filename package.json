@@ -1,7 +1,7 @@
 {
     "name": "makecraftrp-anarchy-launcher",
     "preductname": "MakeCraftRP ANARCHY Launcher",
-    "version": "8.0.0",
+    "version": "8.0.1",
     "description": "Launcher de MakeCraftRP ANARCHY",
     "main": "src/app.js",
     "author": "ZeroxarZ",
