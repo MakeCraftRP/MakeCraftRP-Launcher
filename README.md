@@ -9,7 +9,7 @@
 [![Version](https://img.shields.io/badge/version-2.2.8-blue.svg)](https://github.com/MakeCraftRP/MakeCraftRP-Launcher)
 [![License](https://img.shields.io/badge/license-CC0-green.svg)](LICENSE.md)
 [![Electron](https://img.shields.io/badge/Electron-37.2.0-47848F.svg)](https://electronjs.org/)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289DA&label=Discord&logo=discord)](https://discord.gg/HMEMeeMkr8)
+[![Discord](https://img.shields.io/discord/848579867855028264?color=7289DA&label=Discord&logo=discord)](https://discord.gg/HMEMeeMkr8)
 
 [📥 Télécharger](#installation) • [📖 Documentation](#utilisation) • [🐛 Signaler un bug](https://github.com/MakeCraftRP/MakeCraftRP-Launcher/issues) • [💬 Discord](https://discord.gg/HMEMeeMkr8)
 
