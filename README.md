@@ -11,7 +11,7 @@
 [![Electron](https://img.shields.io/badge/Electron-37.2.0-47848F.svg)](https://electronjs.org/)
 [![Discord](https://img.shields.io/discord/848579867855028264?color=7289DA&label=Discord&logo=discord)](https://discord.gg/HMEMeeMkr8)
 
-[📥 Télécharger](#installation) • [📖 Documentation](#utilisation) • [🐛 Signaler un bug](https://github.com/MakeCraftRP/MakeCraftRP-Launcher/issues) • [💬 Discord](https://discord.gg/HMEMeeMkr8)
+[📥 Télécharger](https://github.com/MakeCraftRP/MakeCraftRP-Launcher/releases) • [🐛 Signaler un bug](https://github.com/MakeCraftRP/MakeCraftRP-Launcher/issues) • [💬 Discord](https://discord.gg/HMEMeeMkr8)
 
 </div>
 
