@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MakeCraftRP Logo](../src/assets/images/icon.png)
+![MakeCraftRP Logo](https://download.makecraftrp.com/logo.png)
 
 **Launcher officiel du serveur Minecraft MakeCraftRP**
 
